@@ -1,6 +1,5 @@
 /*
-	Exercise 1.9:
-	Modify fetch to also print the HTTP status code.
+	Exercise 1.9
 */
 
 package main

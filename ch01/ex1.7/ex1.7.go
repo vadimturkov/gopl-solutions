@@ -1,7 +1,5 @@
 /*
-	Exercise 1.7:
-	Use io.Copy instead of ioutil.ReadAll to copy the response body to os.Stdout
-	without requiring a buffer large enough to hold the entire stream.
+	Exercise 1.7
 */
 
 package main

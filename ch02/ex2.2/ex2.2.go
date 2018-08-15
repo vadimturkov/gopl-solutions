@@ -1,3 +1,7 @@
+/*
+	Exercise 2.2
+*/
+
 package main
 
 import (

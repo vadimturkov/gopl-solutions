@@ -1,6 +1,5 @@
 /*
-	Exercise 2.1:
-	Add types, constants, and functions to tempconv for processing temperatures in the Kelvin scale.
+	Exercise 2.1
 */
 
 package tempconv

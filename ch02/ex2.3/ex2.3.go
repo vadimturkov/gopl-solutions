@@ -1,7 +1,5 @@
 /*
-	Exercise 2.3:
-	Rewrite PopCount to use loop instead of a single expression.
-	Compare the performance of the two versions.
+	Exercise 2.3
 */
 
 package popcount

@@ -1,7 +1,5 @@
 /*
-	Exercise 1.6:
-	Change the Lissajous program to produce images in multiple colors by adding
-	more values to palette.
+	Exercise 1.6
 */
 
 package main

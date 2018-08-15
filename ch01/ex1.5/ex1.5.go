@@ -1,6 +1,5 @@
 /*
-	Exercise 1.5:
-	Change the Lissajous program's color palette to green ob black, for added authenticity.
+	Exercise 1.5
 */
 
 package main

@@ -1,6 +1,5 @@
 /*
-	Exercise 1.12:
-	Modify the Lissajous server to read parameter values from the URL.
+	Exercise 1.12
 */
 
 package main
