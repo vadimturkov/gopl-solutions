@@ -1,3 +1,7 @@
+/*
+	Exercise 3.8
+*/
+
 package fractals
 
 import (
