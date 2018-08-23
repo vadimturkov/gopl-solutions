@@ -24,7 +24,6 @@ func main() {
 	} else {
 		fmt.Println("These strings aren't anagrams of each other.")
 	}
-
 }
 
 func areAnagram(s1, s2 string) bool {
