@@ -18,11 +18,17 @@ func main() {
 
 func comma(s string) string {
 	var buf bytes.Buffer
-	for i, v := range s {
-		if i > 0 && i%3 == 0 {
-			buf.WriteByte(',')
-		}
-		buf.WriteRune(v)
+
+	start := len(s) % 3
+	if start == 0 {
+		start = 3
+	}
+
+	buf.WriteString(s[:start])
+
+	for i := start; i < len(s); i += 3 {
+		buf.WriteByte(',')
+		buf.WriteString(s[i : i+3])
 	}
 	return buf.String()
 }
